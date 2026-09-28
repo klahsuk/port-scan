@@ -1,0 +1,1 @@
+futures::stream::Map<futures::stream::Iter<std::vec::IntoIter<Subdomain>>, {closure@src/main.rs:33:14: 33:25}>
